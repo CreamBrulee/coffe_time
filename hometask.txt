@@ -7,3 +7,17 @@ merge удаленного бранча origin/boots в boots_buttons
 merge удаленного бранча origin/buttons в boots_buttons
 merge удаленного бранча origin/hat в boots_buttons
 merge boots_buttons в main
+
+12 commits в master
+1 init
+2 heat added
+3 boots
+4 README added
+5 dots
+6 fix readme
+7 Merge remote-tracking branch 'origin/boots' into boots_buttons
+8 Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9 Merge remote-tracking branch 'origin/hat'
+10 Merge branch 'boots_buttons'
+11 добавление hometask.txt
+12 прописала коммиты в мастер
