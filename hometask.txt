@@ -1,0 +1,9 @@
+1. В demo есть два коммита, которые отсутствуют в master:
+merge boots в release
+merge buttons в demo
+2. В master есть коммиты, которые отсутствуют в demo:
+fix readme
+merge удаленного бранча origin/boots в boots_buttons
+merge удаленного бранча origin/buttons в boots_buttons
+merge удаленного бранча origin/hat в boots_buttons
+merge boots_buttons в main
